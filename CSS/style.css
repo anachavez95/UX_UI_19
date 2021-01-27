@@ -13,13 +13,13 @@
 }
 
 p { 
-    text-align: center;
-    color: brown;
+   
+    color: black;
 
 }
 
 .caseStudies{
-    background-color:pink;
+    background-color:gray;
     height: 300px;
     
 }
@@ -30,10 +30,22 @@ p {
     }
     
     .nav{
-        text-color: pink;
+        color: pink;
     }
 
     .about-me {
         display: flex;
-
     }
+
+
+
+        .about{
+            text-align: center;
+            color: brown;
+        }
+        .note{
+            color: lightgray;
+            text-align: center;
+            font-style: italic;
+
+        }
