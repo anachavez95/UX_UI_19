@@ -1,0 +1,39 @@
+
+.flexContainer {
+    display: flex;
+}
+
+.green {
+    text-align: right;
+}
+    h1 {
+    text-align: center;
+    color: brown;
+    font-size: 30px;
+}
+
+p { 
+    text-align: center;
+    color: brown;
+
+}
+
+.caseStudies{
+    background-color:pink;
+    height: 300px;
+    
+}
+    
+.footer {
+    width:500px;
+       margin: 0 auto;
+    }
+    
+    .nav{
+        text-color: pink;
+    }
+
+    .about-me {
+        display: flex;
+
+    }
